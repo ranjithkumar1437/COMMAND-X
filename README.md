@@ -71,4 +71,4 @@ npm run dev
 - LLM reasoning can vary, so deterministic fallbacks are included
 
 ---
-**Author**: Pavan (Sai Pavan)
+
